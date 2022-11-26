@@ -1,3 +1,3 @@
 # Dice
 
-    Just a Canvas Dice Game !!
+    Just a Canvas Dice !!
